@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/wannabescaler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthakkapila ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peeyush ." height="30" width="40" /></a>
-<a href="https://wakatime.com/@sarthakkapila" target="blank"><img align="center" src="https://avatars.githubusercontent.com/ml/269?s=140&v=4" alt="" height="30" width="40" /></a>
+<a href="https://wakatime.com/@sarthakkapila" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
