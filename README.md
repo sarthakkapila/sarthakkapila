@@ -28,8 +28,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarthakkapila&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkapila&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-### ✍️ Quote
-![](https://www.ugandaempya.com/wp-content/uploads/2022/06/The-only-way-to-do-great-work-is-to-love-what-you-do.--1024x1024.jpg)
-
----
