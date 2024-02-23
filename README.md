@@ -4,8 +4,7 @@
 <h2 align="center">Passionate Developer From India</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5bmZyeWcwczY3bDd4OTMzbXJ2MHZtanM2eWVjcHlvNGhjOWx6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"
 
-[![](https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkapila&label=Profile%20views&color=000000&style=flat" alt="sarthakkapila" /> </p>-->
 
 # 💫 About Sarthak:
