@@ -17,3 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarthakkapila&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkapila&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🥷 GitRoll Stats:
+<a href="https://gitroll.io/profile/uUONSEnFpgBPwVoHxMWikB78gQrv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUONSEnFpgBPwVoHxMWikB78gQrv1" alt="GitRoll Profile Badge" height="350" width="600" /></a>
+
+![Screenshot 2024-05-03 at 2 29 16 AM](https://github.com/sarthakkapila/sarthakkapila/assets/112886451/2b44a477-fa1b-4bd3-80be-f145b7849e46)
