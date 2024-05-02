@@ -19,5 +19,4 @@
 
 # 🥷 GitRoll Stats:
 <a href="https://gitroll.io/profile/uUONSEnFpgBPwVoHxMWikB78gQrv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUONSEnFpgBPwVoHxMWikB78gQrv1" alt="GitRoll Profile Badge" height="350" width="600" /></a>
-
-![Screenshot 2024-05-03 at 2 29 16 AM](https://github.com/sarthakkapila/sarthakkapila/assets/112886451/2b44a477-fa1b-4bd3-80be-f145b7849e46)
+![Screenshot 2024-05-03 at 2 44 05 AM](https://github.com/sarthakkapila/sarthakkapila/assets/112886451/552458c4-b2b5-4efb-bdf8-09c1ce484ca3)
