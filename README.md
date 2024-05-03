@@ -2,7 +2,8 @@
 
 ![API-GIF](https://github.com/sarthakkapila/sarthakkapila/assets/112886451/cbf46d8e-60be-4e01-8e18-c0a8475bc70c)
 
-[![](https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![]()](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&pretty=false" target="blank"><img align="center" src="https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&pretty=false" alt="saarthak ." height="35" width="250" /></a>
 
 # 💬 Connect with me:
 <p align="left">
