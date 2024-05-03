@@ -7,10 +7,10 @@
 
 # 💬 Connect with me:
 <p align="left">
-<a href="https://twitter.com/sarthakkapila0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak" height="60" width="70" /></a>
-<a href="https://linkedin.com/in/sarthakkapila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarthak ." height="60" width="70" /></a>
-<a href="https://wakatime.com/@sarthakkapila" target="blank"><img align="center" src="https://atnartur.ru/content/2016/07/wakatime/logo.png" alt="" height="60" width="70" /></a>
-<a href="https://gitroll.io/profile/uUONSEnFpgBPwVoHxMWikB78gQrv1/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D560BAQHk0T1oAT7XFg/company-logo_200_200/0/1705047818433/gitroll_logo?e=2147483647&v=beta&t=pcL_ZOC28oH9cOC2sJ7h6jUcI5U06ON1NI-Y3TJTvwY" alt="roll-lol" height="60" width="70" /></a>
+<a href="https://twitter.com/sarthakkapila0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/sarthakkapila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarthak ." height=40" width="50" /></a>
+<a href="https://wakatime.com/@sarthakkapila" target="blank"><img align="center" src="https://atnartur.ru/content/2016/07/wakatime/logo.png" alt="" height="40" width="50" /></a>
+<a href="https://gitroll.io/profile/uUONSEnFpgBPwVoHxMWikB78gQrv1/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D560BAQHk0T1oAT7XFg/company-logo_200_200/0/1705047818433/gitroll_logo?e=2147483647&v=beta&t=pcL_ZOC28oH9cOC2sJ7h6jUcI5U06ON1NI-Y3TJTvwY" alt="roll-lol" height="40" width="50" /></a>
 </p>
 
 # 📊 GitHub Stats:
