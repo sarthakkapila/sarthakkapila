@@ -9,7 +9,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkapila&label=Profile%20views&color=000000&style=flat" alt="sarthakkapila" /> </p>-->
 
 # 💫 About Sarthak:
-🔭 I’m currently working on AI-Caller<br>👯 Looking to collaborate :) <br>🌱 Currently learning Langchain, Prisma and MySQL<br>💬 Ask me about AI , Api's & Web<br>⚡ Fun fact  I Code Daily 💫
+🔭 I’m currently working on Aniki ツ<br>👯 Looking to collaborate :) <br>🌱 Currently learning Web3 & AI<br>💬 Ask me about AI , Api's & Web<br>⚡ Fun fact I Code Daily 💫
 
 <h3 align="left">Connect With Sarthak:</h3>
 <p align="left">
