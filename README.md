@@ -31,7 +31,7 @@ npx sarthakdev
 
 ## 🔗 Links
 Feel free to reach out if you have any questions or just want to say hi! ツ ...
-- **GitHub:** [sarthakkapila](https://github.com/siinghd)
+- **GitHub:** [sarthakkapila](https://github.com/sarthakkapila)
 - **Twitter:** [sarthakkapila0](https://twitter.com/sarthakkapila0)
 - **Email:** [sarthakkapila1@gmail.com](mailto:sarthakkapila1@gmail.com?subject=Hi%20there%F0%9F%91%8B&body=Hi%20there%F0%9F%91%8B%0A)
 - **Website:** [Portfolio website](https://sarthakkapila.xyz)
