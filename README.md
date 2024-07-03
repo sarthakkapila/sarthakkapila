@@ -1,5 +1,5 @@
 
-# Hello, I'm Sarthak Kapila! 👋 [![](https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
+# Hello Ser! I'm Sarthak Kapila 👋 [![](https://visitcount.itsvg.in/api?id=sarthakkapila&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 I'm a Full-Stack Developer with a passion for DevOps & Web3. I always aim for the best code quality. I'm excited about using new technologies in my projects. Learning new things is important to me.
  <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2MWd3d2dtaDNjY293bWM2dGQ2cmtrMGthdnhoNWpqNzA1dmNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.webp">
