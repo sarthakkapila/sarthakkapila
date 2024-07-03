@@ -21,4 +21,5 @@ I'm a Full-Stack Developer with a passion for DevOps & Web3. I always aim for th
 - **GitHub:** [sarthakkapila](https://github.com/siinghd)
 - **Twitter:** [sarthakkapila0](https://twitter.com/sarthakkapila0)
 - **Email:** [sarthakkapila1@gmail.com](mailto:sarthakkapila1@gmail.com?subject=Hi%20there%F0%9F%91%8B&body=Hi%20there%F0%9F%91%8B%0A)
-- **Blog:** [Blog website](https://sarthakkapila.xyz)
+- **Website:** [Portfolio website](https://sarthakkapila.xyz)
+- **Blog:** [Blog website](https://sarthaklol.vercel.app)
