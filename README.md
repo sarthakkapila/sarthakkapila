@@ -17,7 +17,7 @@ I'm a Full-Stack Developer with a passion for DevOps and Web3. I always strive f
 <details>
   <summary>Click to see my stats!</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakkapila&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakkapila&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </details>
 
 ## 🌟 Discover More About Me
