@@ -8,7 +8,7 @@ I'm a Full-Stack Developer with a passion for DevOps and Web3. I always strive f
 - Depends on the project, can adapt quickly but I mostly use Typescript, Next, Postgresql, Prisma, Shadcn, Tailwind.
 
 ## 🌱 Current Learning Goals
-- Expertise in DevOps practices and tools
+- Learn about DevOps practices and tools
 - Learn Rust & Solidity
 - Solve more DSA
 
