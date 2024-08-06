@@ -4,14 +4,13 @@
 I'm a Full-Stack Developer with a passion for DevOps and Web3. I always strive for the highest code quality and enjoy integrating new technologies into my projects. Continuous learning is important to me.
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2MWd3d2dtaDNjY293bWM2dGQ2cmtrMGthdnhoNWpqNzA1dmNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.webp">
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 - Depends on the project, can adapt quickly but I mostly use Typescript, Next, Postgresql, Prisma, Shadcn, Tailwind.
 
-## 🌱 Current Learning Goals
+## 🌱 Goals
 - Learn about DevOps practices and tools
 - Learn Rust & Solidity
-- Solve more DSA
-
+  
 ## 📈 GitHub Stats
 
 <details>
